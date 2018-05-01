@@ -6,4 +6,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist
 }
 
-updatePlaylist(playlist, artistName, songTitle);
+function remove
